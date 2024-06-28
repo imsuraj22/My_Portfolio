@@ -1214,7 +1214,11 @@ body.offcanvas {
     .btn-success.btn-outline:hover, .btn-success.btn-outline:focus, .btn-success.btn-outline:active {
       background: #5cb85c;
       color: #fff; }
-
+.temp{
+  display: flex;
+  justify-content: space-around;
+  
+}
 .btn-info {
   background: #5bc0de;
   color: #fff;
